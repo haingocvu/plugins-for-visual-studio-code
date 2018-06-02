@@ -7,6 +7,7 @@
   <li><a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint">Java Script</a></li>
   <li><a href="https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets">jQuery Code Snippets</a></li>
   <li><a href="https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2">Angular v6 Snippets</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets">Vue 2 Snippets</a></li
   <li><a href="https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug">PHP Debug</a></li>
   <li><a href="https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome">Debugger for Chrome</a></li>
 </ul>
