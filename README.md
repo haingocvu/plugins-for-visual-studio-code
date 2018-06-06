@@ -1,6 +1,7 @@
 # plugins-for-visual-studio-code
 
 <ul style="list-style-type:square">
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets">Laravel 5 Snippets</a></li>
   <li><a href="https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline">Code outline</a></li>
   <li><a href="https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons">vscode-icons</a></li>
   <li><a href="https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense">PHP Intellisense</a></li>
