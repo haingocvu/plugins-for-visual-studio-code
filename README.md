@@ -10,6 +10,7 @@
   <li><a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag">Auto Close Tag</a></li>
   <li><a href="https://marketplace.visualstudio.com/items?itemName=wcwhitehead.bootstrap-3-snippets">Bootstrap 3 Snippets</a></li>
   <li><a href="https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented">Sass</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify">Beautify</a></li>
   <li><a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag">Auto Rename Tag</a></li>
   <li><a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint">ESLint</a></li>
   <li><a href="https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig">EditorConfig for VS Code</a></li>
